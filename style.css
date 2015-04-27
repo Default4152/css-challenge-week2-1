@@ -1,0 +1,14 @@
+.paragraphSetOne {
+  background: black;
+  color: white;
+}
+
+.paragraphSetTwo {
+  background: white;
+  color: blue;
+}
+
+.paragraphSetTwo h6 {
+  background: pink;
+  color: green;
+}

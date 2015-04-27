@@ -1,4 +1,4 @@
-1. The first paragraphs need to have a background of black and a text
+1. The first paragraphs in the first div need to have a background of black and a text
    color of white.
 2. I want the paragraph in the second div to have a background of white
    but a text color of blue.
